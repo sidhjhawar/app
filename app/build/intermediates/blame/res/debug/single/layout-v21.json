@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

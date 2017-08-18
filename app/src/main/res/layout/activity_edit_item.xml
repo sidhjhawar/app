@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sidharth.todoapp.EditItemActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnSaveButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onSave"
+            android:text="Save"
+            android:layout_marginLeft="23dp"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="37dp"
+            android:layout_below="@+id/mtEditItem"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:color/holo_green_dark"
+            android:textColor="@android:color/white" />
+
+        <EditText
+            android:id="@+id/mtEditItem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="94dp"
+            android:ems="10"
+            android:inputType="textMultiLine"
+            android:layout_below="@+id/headerTextView"
+            android:layout_alignLeft="@+id/btnSaveButton"
+            android:layout_alignStart="@+id/btnSaveButton" />
+
+        <TextView
+            android:id="@+id/headerTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/mtEditItem"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/mtEditItem"
+            android:layout_marginTop="16dp"
+            android:text="Edit Item Below:"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            tools:text="@string/header_text" />
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

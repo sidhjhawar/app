@@ -1,0 +1,7 @@
+#Thu Aug 17 21:02:56 MDT 2017
+base.0=/Users/Sidharth/workspace/Sid/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d68dec942db9bfaaec90db595615967a5d7692a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Sidharth/workspace/Sid/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed7ae82c4540076d6e6bc19e3edaf6dbac38785e/classes.dex
+base.1=/Users/Sidharth/workspace/Sid/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ed7ae82c4540076d6e6bc19e3edaf6dbac38785e
+file.0=/Users/Sidharth/workspace/Sid/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d68dec942db9bfaaec90db595615967a5d7692a/classes.dex

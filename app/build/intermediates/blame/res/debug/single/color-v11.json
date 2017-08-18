@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Sidharth/.android/build-cache/3f6e34cfcdcaa31c797af50a4dc0e9edf37dd62f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

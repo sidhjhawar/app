@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Sidharth/workspace/Android/android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Sidharth/workspace/Android/android/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/Sidharth/workspace/Sid/android/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Sidharth/workspace/Sid/android/app/src/main/res/menu/menu_main.xml"
+    }
+]
